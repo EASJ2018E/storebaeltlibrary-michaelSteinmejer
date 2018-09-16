@@ -9,12 +9,6 @@
             Dette er en public klasse bil
             </summary>
         </member>
-        <member name="M:BilletLibrary.Bil.BrobizzRabat">
-            <summary>
-            Brobizz rabat på 5%
-            </summary>
-            <returns></returns>
-        </member>
         <member name="M:BilletLibrary.Bil.Pris">
             <summary>
             returnerer prisen
@@ -39,12 +33,6 @@
             <param name="nummerplade"></param>
             <param name="dato"></param>
             <param name="brobizz"></param>
-        </member>
-        <member name="M:BilletLibrary.MC.BrobizzRabat">
-            <summary>
-            Brobizz rabat på 5%
-            </summary>
-            <returns></returns>
         </member>
         <member name="M:BilletLibrary.MC.Pris">
             <summary>

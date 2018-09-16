@@ -9,9 +9,9 @@ namespace StoreBaeltBilletLibrary
         {
             if (bil.Dato.DayOfWeek == (DayOfWeek) 6 | bil.Dato.DayOfWeek == 0)
             {
-                return (bil.BrobizzRabat() * 0.80);
+                return (bil.Pris() * 0.80);
             }
-            return bil.BrobizzRabat();
+            return bil.Pris();
         }
     }
 }
